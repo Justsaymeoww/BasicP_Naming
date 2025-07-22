@@ -1,7 +1,7 @@
 distance = int(input("Please Enter Distance : "))
 
 if distance < 5 :
-    print("Cant express under 5 km.")
+    print("Cant sent under 5 km.")
 elif distance <= 50 :
     print ("Your cost is 10 Bath")
 elif distance <= 100 :
