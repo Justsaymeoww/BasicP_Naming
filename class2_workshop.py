@@ -12,3 +12,5 @@ elif distance <= 500 :
     print ("Your cost is 35 Bath")
 elif distance > 500 :
     print ("Your cost is 45 Bath")
+else:
+    print("Please Enter Your Distance Again")
