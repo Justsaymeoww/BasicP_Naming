@@ -103,5 +103,3 @@
 #     print("Your age more than 20")
 # else:
 #    print("Your age lower than 18")
-
-
