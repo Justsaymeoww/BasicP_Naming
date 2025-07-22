@@ -1,4 +1,4 @@
-distance = int(input("Please Enter Distance : "))
+distance = int(input("Please Enter Your Distance : "))
 
 if distance < 5 :
     print("Cant sent under 5 km.")
