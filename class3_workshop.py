@@ -43,7 +43,7 @@ while True:
             print("Moodeng Die !")
         if Moodeng_Blood > 0:
             print ("Player Die !")
-    break
+        break
             
         
     
